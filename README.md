@@ -88,5 +88,5 @@ Securing AWS resources with IAM roles and policies.
 Building scalable and maintainable backend services without managing servers.
 
 Author: Yara Alalawi
-Email: yuributterfly3@gmail.com
+Email: Yaraalalawi30@gmail.com
 LinkedIn: [linkedin.com/in/yara-alalawi](https://www.linkedin.com/in/yara-alalawi)
