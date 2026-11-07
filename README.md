@@ -89,4 +89,4 @@ Building scalable and maintainable backend services without managing servers.
 
 Author: Yara Alalawi
 Email: yuributterfly3@gmail.com
-LinkedIn: [https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/yara-alalawi-76a3952b3/?originalSubdomain=sa)
+LinkedIn: [linkedin.com/in/yara-alalawi](https://www.linkedin.com/in/yara-alalawi)
